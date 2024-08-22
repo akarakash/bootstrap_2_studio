@@ -253,3 +253,9 @@ body {
     padding: 25px;
   }
 }
+@media (max-width:568px) {
+  .Nice{
+    font-size: 45px !important;
+    margin-top: 25px;
+  }
+}
